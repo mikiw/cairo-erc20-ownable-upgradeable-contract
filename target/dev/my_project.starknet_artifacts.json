@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"2i68qgl5cpm7a","package_name":"my_project","contract_name":"MyToken","module_path":"my_project::MyToken","artifacts":{"sierra":"my_project_MyToken.contract_class.json","casm":null}}]}
